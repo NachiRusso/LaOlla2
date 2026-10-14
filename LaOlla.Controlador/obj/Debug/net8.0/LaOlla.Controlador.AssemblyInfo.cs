@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaOlla.Controlador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c32921356b362efe0231dca0d0b425e7ca3cfb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaOlla.Controlador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaOlla.Controlador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

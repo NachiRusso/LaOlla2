@@ -65,3 +65,4 @@ C:\Users\Navegador\LaOlla\LaOlla.Vista\obj\Debug\net8.0-windows\refint\LaOlla.Vi
 C:\Users\Navegador\LaOlla\LaOlla.Vista\obj\Debug\net8.0-windows\LaOlla.Vista.pdb
 C:\Users\Navegador\LaOlla\LaOlla.Vista\obj\Debug\net8.0-windows\LaOlla.Vista.genruntimeconfig.cache
 C:\Users\Navegador\LaOlla\LaOlla.Vista\obj\Debug\net8.0-windows\ref\LaOlla.Vista.dll
+C:\Users\Navegador\LaOlla\LaOlla.Vista\obj\Debug\net8.0-windows\LaOlla.Vista.sourcelink.json

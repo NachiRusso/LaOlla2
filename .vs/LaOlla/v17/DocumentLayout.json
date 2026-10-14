@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{FE0C5BDF-D71F-4546-AE65-A6A7B53CD638}|LaOlla.Vista\\LaOlla.Vista.csproj|solutionrelative:laolla.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0C5BDF-D71F-4546-AE65-A6A7B53CD638}|LaOlla.Vista\\LaOlla.Vista.csproj|c:\\users\\navegador\\laolla\\laolla.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FE0C5BDF-D71F-4546-AE65-A6A7B53CD638}|LaOlla.Vista\\LaOlla.Vista.csproj|C:\\Users\\Navegador\\LaOlla\\laolla.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FE0C5BDF-D71F-4546-AE65-A6A7B53CD638}|LaOlla.Vista\\LaOlla.Vista.csproj|solutionrelative:laolla.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "Relevamiento.md",
               "ToolTip": "C:\\Users\\Navegador\\LaOlla\\Relevamiento.md",
               "RelativeToolTip": "Relevamiento.md",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAHYAAACnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAACnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-10-14T13:40:02.393Z",
               "EditorCaption": ""
@@ -90,8 +90,7 @@
               "ToolTip": "C:\\Users\\Navegador\\LaOlla\\LaOlla.Modelo\\LaOlla.Modelo.csproj",
               "RelativeToolTip": "LaOlla.Modelo\\LaOlla.Modelo.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-14T13:16:14.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T13:16:14.719Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "ToolTip": "C:\\Users\\Navegador\\LaOlla\\LaOlla.Vista\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "LaOlla.Vista\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T13:07:23.283Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-10-14T13:07:23.283Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "LaOlla.Vista\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T13:06:38.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T13:06:38.383Z"
             },
             {
               "$type": "Document",
@@ -141,8 +138,7 @@
               "RelativeToolTip": "LaOlla.Controlador\\ReservaController.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T12:32:28.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T12:32:28.991Z"
             },
             {
               "$type": "Document",
@@ -154,8 +150,7 @@
               "RelativeToolTip": "LaOlla.Controlador\\MenuController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwGoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T12:31:50.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T12:31:50.852Z"
             },
             {
               "$type": "Document",
@@ -167,8 +162,7 @@
               "RelativeToolTip": "LaOlla.Modelo\\ReservaRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T12:30:21.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T12:30:21.746Z"
             },
             {
               "$type": "Document",
@@ -180,8 +174,7 @@
               "RelativeToolTip": "LaOlla.Modelo\\MenuRepositorio.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T12:29:08.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T12:29:08.47Z"
             },
             {
               "$type": "Document",
@@ -193,8 +186,7 @@
               "RelativeToolTip": "LaOlla.Modelo\\ConfiguracionBD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T12:26:46.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T12:26:46.21Z"
             },
             {
               "$type": "Document",
@@ -206,8 +198,7 @@
               "RelativeToolTip": "LaOlla.Vista\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-10-14T12:34:01.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T12:34:01.792Z"
             },
             {
               "$type": "Document",
@@ -219,8 +210,7 @@
               "RelativeToolTip": "LaOlla.Modelo\\Reserva.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T12:28:04.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T12:28:04.382Z"
             },
             {
               "$type": "Document",
@@ -232,8 +222,7 @@
               "RelativeToolTip": "LaOlla.Modelo\\Menu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T12:27:34.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T12:27:34.77Z"
             },
             {
               "$type": "Document",
@@ -245,12 +234,7 @@
               "RelativeToolTip": "LaOlla.Modelo\\Resultado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T12:26:01.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-10-14T12:26:01.398Z"
             }
           ]
         }

@@ -13,3 +13,4 @@ C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.Controlador
 C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\refint\LaOlla.Controlador.dll
 C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.Controlador.pdb
 C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\ref\LaOlla.Controlador.dll
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.Controlador.sourcelink.json
