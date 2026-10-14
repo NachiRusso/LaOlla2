@@ -1,0 +1,12 @@
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\bin\Debug\net8.0\LaOlla.Modelo.deps.json
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\bin\Debug\net8.0\LaOlla.Modelo.dll
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\bin\Debug\net8.0\LaOlla.Modelo.pdb
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\obj\Debug\net8.0\LaOlla.Modelo.csproj.AssemblyReference.cache
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\obj\Debug\net8.0\LaOlla.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\obj\Debug\net8.0\LaOlla.Modelo.AssemblyInfoInputs.cache
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\obj\Debug\net8.0\LaOlla.Modelo.AssemblyInfo.cs
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\obj\Debug\net8.0\LaOlla.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\obj\Debug\net8.0\LaOlla.Modelo.dll
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\obj\Debug\net8.0\refint\LaOlla.Modelo.dll
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\obj\Debug\net8.0\LaOlla.Modelo.pdb
+C:\Users\Navegador\LaOlla\LaOlla.Modelo\obj\Debug\net8.0\ref\LaOlla.Modelo.dll

@@ -1,0 +1,15 @@
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\bin\Debug\net8.0\LaOlla.Controlador.deps.json
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\bin\Debug\net8.0\LaOlla.Controlador.dll
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\bin\Debug\net8.0\LaOlla.Controlador.pdb
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\bin\Debug\net8.0\LaOlla.Modelo.dll
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\bin\Debug\net8.0\LaOlla.Modelo.pdb
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.Controlador.csproj.AssemblyReference.cache
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.Controlador.AssemblyInfoInputs.cache
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.Controlador.AssemblyInfo.cs
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.C.7234050F.Up2Date
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.Controlador.dll
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\refint\LaOlla.Controlador.dll
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\LaOlla.Controlador.pdb
+C:\Users\Navegador\LaOlla\LaOlla.Controlador\obj\Debug\net8.0\ref\LaOlla.Controlador.dll
